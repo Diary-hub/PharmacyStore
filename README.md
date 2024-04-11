@@ -1,2 +1,2 @@
-# pharmacystore
-Pharmacy Webstite Application Using React and ExpressJS 
+# Pharmacy Store
+Pharmacy Website Application Using React and ExpressJS 

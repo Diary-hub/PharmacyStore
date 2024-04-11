@@ -58,13 +58,13 @@ module.exports = {
     var transporter = nodemailer.createTransport({
       service: "gmail",
       auth: {
-        user: "diary.313205014@uhd.edu.iq",
-        pass: "Dihack2002",
+        user: "",
+        pass: "",
       },
     });
 
     var mailOptions = {
-      from: "diary.313205014@uhd.edu.iq",
+      from: "",
       to: data.EMAIL,
       subject: data.BODY
         ? "Feedback From User " + data.NAME
